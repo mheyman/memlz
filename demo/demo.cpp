@@ -2,7 +2,7 @@
 #include <vector>
 #include <memory>
 
-#include "../memlz.h"
+#include "../memlz/include/memlz.h"
 
 #ifdef _WIN32
 #include <fcntl.h>

@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <assert.h>
-#include "../memlz.h"
+#include "../memlz/include/memlz.h"
 
 #ifdef _WIN32
 #include <fcntl.h>
